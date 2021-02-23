@@ -5,5 +5,5 @@
 
 
 学习资源
-* ![浙江大学-C语言程序设计（入门+进阶）](https://www.bilibili.com/video/BV1sJ41187fx?p=1)
+* [浙江大学-C语言程序设计（入门+进阶）](https://www.bilibili.com/video/BV1sJ41187fx?p=1)
 
