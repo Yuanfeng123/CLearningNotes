@@ -7,3 +7,9 @@
 学习资源
 * [浙江大学-C语言程序设计（入门+进阶）](https://www.bilibili.com/video/BV1sJ41187fx?p=1)
 
+在线的编程环境
+* [C语言代码测试](https://www.dooccn.com/c/)
+
+
+在线的OJ系统
+* [洛谷](https://www.luogu.com.cn/)
